@@ -61,7 +61,7 @@ Heart disease diagnosis often depends on interpreting a mix of clinical measurem
 
 ## Author
 
-Jhanvi
+Jhanvi Khanna
 
 ## License
 
