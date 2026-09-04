@@ -60,10 +60,10 @@ Heart disease diagnosis often depends on interpreting a mix of clinical measurem
 
 # Prediction
 ## Model 	           |   Accuracy	|  Precision (1) | Recall (1)	| F1 (1)|
-SVM	                 | SVM	, 0.86 |  SVM,0.85 | SVM ,0.91 | SVM , 0.88|
-Random Forest	         0.84	       0.83	           0.89	    0.86
-KNN	                  0.84         0.83	           0.89       0.86
-Logistic Regression  	0.83	       0.83	           0.87	    0.85
+SVM	                 |    0.86    |    0.85        |   0.91     |  0.88 |
+Random Forest	        |    0.84    |    0.83	     |   0.89	   |  0.86 |
+KNN	                 |    0.84    |    0.83	     |   0.89     |  0.86 |
+Logistic Regression    |	 0.83	   |    0.83	     |   0.87	   |  0.85 |
 
 ## Author
 
