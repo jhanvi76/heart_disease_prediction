@@ -58,12 +58,6 @@ Heart disease diagnosis often depends on interpreting a mix of clinical measurem
 - Certain chest pain types (notably asymptomatic) are strongly associated with a higher likelihood of heart disease.
 - A correlation heatmap and multi-model comparison help identify which features and algorithms are most predictive.
 
-# Prediction
-## Model 	           |   Accuracy	|  Precision (1) | Recall (1)	| F1 (1)|
-SVM	                 |    0.86    |    0.85        |   0.91     |  0.88 |
-Random Forest	        |    0.84    |    0.83	     |   0.89	   |  0.86 |
-KNN	                 |    0.84    |    0.83	     |   0.89     |  0.86 |
-Logistic Regression    |	 0.83	   |    0.83	     |   0.87	   |  0.85 |
 
 ## Author
 
